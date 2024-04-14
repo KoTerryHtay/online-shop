@@ -1,0 +1,302 @@
+{
+  "Categories": [
+    {
+      "id": "01",
+      "name": "Power Bank"
+    },
+    {
+      "id": "02",
+      "name": "Charger"
+    },
+    {
+      "id": "03",
+      "name": "Cable"
+    },
+    {
+      "id": "04",
+      "name": "Charger Head"
+    },
+    {
+      "id": "05",
+      "name": "Cover"
+    },
+    {
+      "id": "06",
+      "name": "Temper Glass"
+    },
+    {
+      "id": "07",
+      "name": "Phone"
+    }
+  ],
+  "PowerBank": [
+    {
+      "id": "PB01",
+      "brandId": "brand02",
+      "name": "Power Bank 10000mAh",
+      "price": 20000,
+      "description": "Power Bank 10000mAh 10W",
+      "images": [
+        "https://www.remaxbangladesh.com/image/cache/catalog/A%202020%20Folder/power%20bank/2020/REMAX%20RPP-96/7c4a160d7e672bb5b58ffbc88b0733d9-1100x1100.jpg"
+      ],
+      "creationAt": "2024-03-26T08:21:30.000Z",
+      "updatedAt": "2024-03-27T00:57:14.000Z",
+      "categoryId": "01",
+      "capacity": 10000,
+      "input": "5V=2A",
+      "output": "5V=2A",
+      "quantity": 1,
+      "totalPrice": 20000,
+      "category": "powerbank"
+    },
+    {
+      "id": "PB02",
+      "brandId": "brand02",
+      "name": "Power Bank 20000mAh",
+      "price": 40000,
+      "description": "Power Bank 20000mAh 18W",
+      "images": [
+        "https://www.remaxbangladesh.com/image/cache/catalog/A%202020%20Folder/power%20bank/2022/BASEUS%20Bipow/Baseus-Bipow-Digital-Display-20W-Power-Bank-10000mAh-USB-Type-C-Black-6953156206519-21072021-01-p-1100x1100.jpg"
+      ],
+      "creationAt": "2024-03-26T08:21:30.000Z",
+      "updatedAt": "2024-03-27T00:57:14.000Z",
+      "categoryId": "01",
+      "capacity": 20000,
+      "input": "5V=3A",
+      "output": "5V=3A",
+      "quantity": 1,
+      "totalPrice": 40000,
+      "category": "powerbank"
+    }
+  ],
+  "Charger": [
+    {
+      "id": "charger_01",
+      "brandId": "brand02",
+      "name": "Charger 10W",
+      "price": 5000,
+      "description": "Charger 10W",
+      "images": [
+        "https://www.remaxbangladesh.com/image/cache/catalog/A%202020%20Folder/Mobile%20Charger/2021/REMAX%20RP-U22/fcsds-1100x1100.jpg"
+      ],
+      "creationAt": "2024-03-26T08:21:30.000Z",
+      "updatedAt": "2024-03-27T00:57:14.000Z",
+      "categoryId": "02",
+      "output": "5V=2A",
+      "type": "Micro",
+      "quantity": 1,
+      "totalPrice": 5000,
+      "category": "charger"
+    },
+    {
+      "id": "charger_02",
+      "brandId": "brand02",
+      "name": "Charger 18W",
+      "price": 10000,
+      "description": "Charger 18W",
+      "images": [
+        "https://www.remaxbangladesh.com/image/cache/catalog/A%202020%20Folder/Mobile%20Charger/2021/REMAX%20RP-U22/fcsds-1100x1100.jpg"
+      ],
+      "creationAt": "2024-03-26T08:21:30.000Z",
+      "updatedAt": "2024-03-27T00:57:14.000Z",
+      "categoryId": "02",
+      "output": "9V=2A",
+      "type": "Type-C",
+      "quantity": 1,
+      "totalPrice": 10000,
+      "category": "charger"
+    }
+  ],
+  "Cable": [
+    {
+      "id": "cable_01",
+      "brandId": "brand02",
+      "name": "Cable 10W",
+      "price": 5000,
+      "description": "Cable 10W",
+      "images": [
+        "https://www.remaxbangladesh.com/image/cache/catalog/A%202020%20Folder/Data%20Cable/2020/Awei%20CL-10/ezgif.com-webp-to-jpg-10-600x600-800x800-1100x1100.jpg"
+      ],
+      "creationAt": "2024-03-26T08:21:30.000Z",
+      "updatedAt": "2024-03-27T00:57:14.000Z",
+      "categoryId": "03",
+      "output": "2.1A",
+      "cable_length": "1000 mm",
+      "type": "Micro",
+      "quantity": 1,
+      "totalPrice": 5000,
+      "category": "cable"
+    },
+    {
+      "id": "cable_02",
+      "brandId": "brand02",
+      "name": "Cable 18W",
+      "price": 10000,
+      "description": "Cable 18W",
+      "images": [
+        "https://www.remaxbangladesh.com/image/cache/catalog/A%202020%20Folder/Data%20Cable/2020/Awei%20CL-10/ezgif.com-webp-to-jpg-10-600x600-800x800-1100x1100.jpg"
+      ],
+      "creationAt": "2024-03-26T08:21:30.000Z",
+      "updatedAt": "2024-03-27T00:57:14.000Z",
+      "categoryId": "03",
+      "output": "2.1A",
+      "cable_length": "1000 mm",
+      "type": "Type-C",
+      "quantity": 1,
+      "totalPrice": 10000,
+      "category": "cable"
+    }
+  ],
+  "ChargerHead": [
+    {
+      "id": "chargerHead_01",
+      "brandId": "brand02",
+      "name": "Charger Head 10W",
+      "price": 5000,
+      "description": "Charger Head 10W",
+      "images": [
+        "https://www.remaxbangladesh.com/image/cache/catalog/A%202020%20Folder/Mobile%20Charger/2023/Google%20G9BR1/Google%2030w%20Charger%20(2)-800x800-1100x1100.jpg"
+      ],
+      "creationAt": "2024-03-26T08:21:30.000Z",
+      "updatedAt": "2024-03-27T00:57:14.000Z",
+      "categoryId": "04",
+      "output": "5V=2A,10W",
+      "quantity": 1,
+      "totalPrice": 5000,
+      "category": "chargerhead"
+    },
+    {
+      "id": "chargerHead_02",
+      "brandId": "brand02",
+      "name": "Charger Head 18W",
+      "price": 10000,
+      "description": "Charger Head 18W",
+      "images": [
+        "https://www.remaxbangladesh.com/image/cache/catalog/A%202020%20Folder/Mobile%20Charger/2023/Google%20G9BR1/Google%2030w%20Charger%20(2)-800x800-1100x1100.jpg"
+      ],
+      "creationAt": "2024-03-26T08:21:30.000Z",
+      "updatedAt": "2024-03-27T00:57:14.000Z",
+      "categoryId": "04",
+      "output": "9V=2A,18W",
+      "quantity": 1,
+      "totalPrice": 10000,
+      "category": "chargerhead"
+    }
+  ],
+  "Cover": [
+    {
+      "id": "cover_01",
+      "name": "Redmi 8",
+      "price": 3000,
+      "description": "Redmi 8 cover",
+      "images": [
+        "https://m.media-amazon.com/images/I/415VFhCOOTL._SX300_SY300_QL70_FMwebp_.jpg"
+      ],
+      "creationAt": "2024-03-26T08:21:30.000Z",
+      "updatedAt": "2024-03-27T00:57:14.000Z",
+      "categoryId": "05",
+      "quantity": 1,
+      "totalPrice": 3000,
+      "category": "cover"
+    },
+    {
+      "id": "cover_02",
+      "name": "Redmi 9a",
+      "price": 3000,
+      "description": "Redmi 9a cover",
+      "images": [
+        "https://m.media-amazon.com/images/I/418wDM+0qrL._SY300_SX300_.jpg"
+      ],
+      "creationAt": "2024-03-26T08:21:30.000Z",
+      "updatedAt": "2024-03-27T00:57:14.000Z",
+      "categoryId": "05",
+      "quantity": 1,
+      "totalPrice": 3000,
+      "category": "cover"
+    }
+  ],
+  "Temper_Glass": [
+    {
+      "id": "TG01",
+      "name": "Redmi 8",
+      "price": 3000,
+      "description": "Redmi 8 Temper Glass",
+      "images": [
+        "https://dukanindia.in/home/wp-content/uploads/2021/12/GLA881.jpg"
+      ],
+      "creationAt": "2024-03-26T08:21:30.000Z",
+      "updatedAt": "2024-03-27T00:57:14.000Z",
+      "categoryId": "06",
+      "quantity": 1,
+      "totalPrice": 3000,
+      "category": "temperglass"
+    },
+    {
+      "id": "TG02",
+      "name": "Redmi 9a",
+      "price": 3000,
+      "description": "Redmi 9a Temper Glass",
+      "images": [
+        "https://dukanindia.in/home/wp-content/uploads/2021/12/GLA881.jpg"
+      ],
+      "creationAt": "2024-03-26T08:21:30.000Z",
+      "updatedAt": "2024-03-27T00:57:14.000Z",
+      "categoryId": "06",
+      "quantity": 1,
+      "totalPrice": 3000,
+      "category": "temperglass"
+    }
+  ],
+  "Brand": [
+    {
+      "id": "brand01",
+      "name": "Redmi"
+    },
+    {
+      "id": "brand02",
+      "name": "Remax"
+    }
+  ],
+  "Phone": [
+    {
+      "id": "phone01",
+      "brandId": "brand01",
+      "categoryId": "07",
+      "name": "Redmi 9a",
+      "description": "Redmi 9a 3/32,4/64",
+      "sim": "Dual Sim",
+      "size": 6.22,
+      "memory": "3/32,4/64",
+      "battery": "5000mAh",
+      "charging": "10W",
+      "usb": "micro/2.0",
+      "images": [
+        "https://fdn.gsmarena.com/imgroot/news/20/09/xiaomi-redmi-9a-6-128-gb/-800/gsmarena_002.jpg"
+      ],
+      "price": 100000,
+      "quantity": 1,
+      "totalPrice": 100000,
+      "category": "phone"
+    },
+    {
+      "id": "phone02",
+      "brandId": "brand01",
+      "categoryId": "07",
+      "name": "Redmi 8",
+      "description": "Redmi 8 3/32,4/64",
+      "sim": "Dual Sim",
+      "size": 6.22,
+      "memory": "3/32,4/64",
+      "battery": "5000mAh",
+      "charging": "18W",
+      "usb": "Type-C/2.0",
+      "images": [
+        "https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-8/c3i-header.png"
+      ],
+      "price": 200000,
+      "quantity": 1,
+      "totalPrice": 200000,
+      "category": "phone"
+    }
+  ]
+}
